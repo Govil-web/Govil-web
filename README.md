@@ -1,4 +1,23 @@
-### Hi there 👋
+# ¡Hola! 👋
+
+¡Bienvenido a mi perfil de GitHub! Soy Gonzalo Villegas, ingeniero de software, apasionado de la programación y la tecnología. En este espacio encontrarás  proyectos en los que he trabajado. Me encanta aprender nuevas cosas y compartir conocimientos con la comunidad.
+
+## Sobre mí
+
+- 👨‍💻 Actualmente estoy participando de una simulacion laboral tech en NoCountry como backend developer.
+- 🌱 Estoy aprendiendo constantemente y buscando oportunidades para mejorar mis habilidades.
+- 💬 Si tienes alguna pregunta sobre alguno de mis proyectos o simplemente quieres charlar, no dudes en contactarme.
+
+
+
+## Contacto
+
+Puedes encontrarme:
+
+- [LinkedIn](www.linkedin.com/in/govil-web)
+
+
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante por aquí. 😊
 
 <!--
 **Govil-web/Govil-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
