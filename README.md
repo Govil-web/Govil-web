@@ -22,7 +22,7 @@ Puedes encontrarme:
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante por aquí. 😊
 
-![Govil-web's GitHub stats](https://github-readme-stats.vercel.app/api?username=Govil-web&show_icons=true&theme=tokyonight)
+![Govil-web's GitHub stats](https://github-readme-stats.vercel.app/api?username=Govil-web&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
 **Govil-web/Govil-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
