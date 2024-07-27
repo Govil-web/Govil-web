@@ -31,7 +31,7 @@ Puedes encontrarme:
 
 <p align="left" >
       <a href="mailto:govil.web@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
-        <a href="www.linkedin.com/in/govil-web" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+        <a href="https://www.linkedin.com/in/govil-web/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
 </p>
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante por aquí. 😊
