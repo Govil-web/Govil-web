@@ -7,7 +7,7 @@ Apasionado de la programación y la tecnología. En este espacio encontrarás  p
 
 ## Sobre mí
 
-- 👨‍💻 Actualmente estoy participando de un hackaton tech en NoCountry como backend developer.
+- 👨‍💻 Actualmente trabajo como backend developer en diferentes proyectos.
 - 🌱 Estoy aprendiendo constantemente y buscando oportunidades para mejorar mis habilidades.
 - 💬 Si tienes alguna pregunta sobre alguno de mis proyectos o simplemente quieres charlar, no dudes en contactarme.}
 
